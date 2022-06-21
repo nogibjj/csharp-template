@@ -1,3 +1,5 @@
+[![.NET](https://github.com/nogibjj/live-coding-csharp/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/live-coding-csharp/actions/workflows/main.yml)
+
 # live-coding-csharp
 Day 1 of live coding with C# and .NET
 
