@@ -7,6 +7,10 @@ Day 1 of live coding with C# and .NET
 
 `dotnet new blazorserver -o BlazorApp --no-https -f net6.0`
 
+## Day 2- Follow along with projects and co-pilot
+
+* [numbers tutorial](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp-local)
+
 
 ## References
 
