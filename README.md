@@ -9,7 +9,10 @@ Day 1 of live coding with C# and .NET
 
 ## Day 2- Follow along with projects and co-pilot
 
+basic stuff and console app
+
 * [numbers tutorial](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp-local)
+* [loops](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/branches-and-loops-local)
 
 
 ## References
