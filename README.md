@@ -6,6 +6,7 @@
 
 [Followed guide here](https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/install)
 1. `dotnet new blazorserver -o BlazorApp --no-https -f net7.0`
+2. `cd BlazorApp`
 
 ## Setup .devcontainer for .NET7
 
