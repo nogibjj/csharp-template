@@ -2,6 +2,13 @@
 
 # live-coding-csharp
 
+## Setup .devcontainer for .NET
+
+Used `Dockerfile`:  https://github.com/devcontainers/images/blob/main/src/dotnet/.devcontainer/Dockerfile
+
+
+
+
 ## Codespaces and csharp:  Console apps
 
 `dotnet new --list` finds all templates
