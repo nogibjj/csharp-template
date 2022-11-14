@@ -1,6 +1,6 @@
 [![.NET](https://github.com/nogibjj/live-coding-csharp/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/live-coding-csharp/actions/workflows/main.yml)
 
-# live-coding-csharp
+# live-coding-csharp (Can use as a GitHub Codespaces Template for .NET 7)
 
 ## Setup .devcontainer for .NET7
 
