@@ -2,6 +2,11 @@
 
 # live-coding-csharp (Can use as a GitHub Codespaces Template for .NET 7)
 
+### Lesson 1:  Setup Blazor .NET7
+
+[Followed guide here](https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/install)
+1. `dotnet new blazorserver -o BlazorApp --no-https -f net7.0`
+
 ## Setup .devcontainer for .NET7
 
 I followed example config files [here](https://github.com/devcontainers/images/tree/main/src/dotnet)
