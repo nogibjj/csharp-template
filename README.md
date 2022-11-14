@@ -2,12 +2,10 @@
 
 # live-coding-csharp
 
-## Setup .devcontainer for .NET
+## Setup .devcontainer for .NET7
 
+I followed example config files [here](https://github.com/devcontainers/images/tree/main/src/dotnet)
 Used `Dockerfile`:  https://github.com/devcontainers/images/blob/main/src/dotnet/.devcontainer/Dockerfile
-
-
-
 
 ## Codespaces and csharp:  Console apps
 
