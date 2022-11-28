@@ -2,11 +2,26 @@
 
 # live-coding-csharp (Can use as a GitHub Codespaces Template for .NET 7)
 
+### Lesson 2:  Create Command-line tools for .NET
+
+* [Official Repo for System.CommandLine](https://github.com/dotnet/command-line-api)
+* [System.CommandLine docs](https://learn.microsoft.com/en-us/dotnet/standard/commandline/get-started-tutorial)
+
+Surprise this actually works with .NET 7!
+`@noahgift ➜ /workspaces/csharp-template/SystemCommandLineDemo (main ✗) $ dotnet run -- --help`
+
 ### Lesson 1:  Setup Blazor .NET7
 
 [Followed guide here](https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/install)
 1. `dotnet new blazorserver -o BlazorApp --no-https -f net7.0`
 2. `cd BlazorApp`
+
+Second example console app:
+
+`mkdir app && cd app`
+`dotnet new console --framework net7.0`
+`dotnet add package System.CommandLine --prerelease`
+
 
 ## Setup .devcontainer for .NET7
 
