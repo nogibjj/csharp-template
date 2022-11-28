@@ -7,6 +7,13 @@
 * [Official Repo for System.CommandLine](https://github.com/dotnet/command-line-api)
 * [System.CommandLine docs](https://learn.microsoft.com/en-us/dotnet/standard/commandline/get-started-tutorial)
 
+1. `mkdir <myproject> && cd <myproject>`
+2. `dotnet new console --framework net7.0`
+3. `dotnet add package System.CommandLine --prerelease`
+4. `dotnet build`
+5. `dotnet run -- --help`
+6. `dotnet run -- --repeat 5 --phrase apple`
+
 Surprise this actually works with .NET 7!
 `@noahgift ➜ /workspaces/csharp-template/SystemCommandLineDemo (main ✗) $ dotnet run -- --help`
 
