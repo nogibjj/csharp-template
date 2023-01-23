@@ -2,8 +2,14 @@
 
 # live-coding-csharp (Can use as a GitHub Codespaces Template for .NET 7)
 
+### Lesson 4:  Build more CLI!!!!
+
+* add linter!
+
 ### Lesson 3: (Keep build with System.CommandLine)
 
+
+`dotnet run -- MarcoPolo --name Marco`
 
 ### Lesson 2:  Create Command-line tools for .NET
 
