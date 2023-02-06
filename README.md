@@ -2,9 +2,42 @@
 
 # live-coding-csharp (Can use as a GitHub Codespaces Template for .NET 7)
 
+### Lesson 5:  Build another CLI tool but with multiple source code files
+
+* expand beyond just `Program.cs`
+
+
 ### Lesson 4:  Build more CLI!!!!
 
-* add linter!
+Run it!
+
+```csharp
+Pineapple
+@noahgift ➜ /workspaces/csharp-template/randomfruit (main ✗) $ dotnet run -- --count 5
+Banana
+Pineapple
+Pear
+Pineapple
+Orange
+```
+
+
+1. `mkdir randomfruit && cd randomfruit`
+2. `dotnet new console --framework net7.0`
+3. `dotnet add package System.CommandLine --version 2.0.0-beta4.22272.1`
+
+
+* add linter! (added via `make install`)
+
+* To run a previous project at a root level just pass in the --project flag
+```bash
+dotnet run --project MarcoPolo -- MarcoPolo --name Marco
+```
+
+#### Reference
+
+* `dotnet` linter:  [https://dev.to/srmagura/c-linting-and-formatting-tools-in-2021-bna](https://dev.to/srmagura/c-linting-and-formatting-tools-in-2021-bna)
+
 
 ### Lesson 3: (Keep build with System.CommandLine)
 

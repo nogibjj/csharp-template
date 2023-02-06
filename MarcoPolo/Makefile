@@ -1,3 +1,7 @@
+install:
+	#install linter
+	dotnet tool install dotnet-format --global
+
 format:
 	dotnet format
 
